@@ -1,6 +1,6 @@
 {
-  "name": "Jane Doe",
-  "tagline": "Researcher, educator, and designer",
+  "name": "Daeun Hong",
+  "tagline": "Researcher",
   "typedItems": [
     "Educator",
     "Researcher",
@@ -20,7 +20,7 @@
   ],
   "contacts": [
     {
-      "email": "academic@example.edu",
+      "email": "dh37@iu.edu",
       "type": "academic"
     },
     {
